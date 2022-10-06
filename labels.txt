@@ -1,2 +1,3 @@
-0 Daisy
-1 Dandelion
+0 adhirasam
+1 aloo_gobi
+2 aloo_matar
